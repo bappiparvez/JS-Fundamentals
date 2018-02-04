@@ -1,7 +1,13 @@
-# Task of "Modern JavaScript Fundamentals" Course by Dan Wellman [published url]
-## Instructor: [Dan Wellman][instructor url]
+# Task of :["Modern JavaScript Fundamentals"][course url] Course by Dan Wellman
+## Instructor: [Dan Wellman][instructor url] 
 
-[published url]: https://code.tutsplus.com/courses/javascript-fundamentals
+[course url]: https://code.tutsplus.com/courses/javascript-fundamentals
 [instructor url]: https://tutsplus.com/authors/dan-wellman
  
-## Install NPM 
+### Install NPM 
+```
+$  sudo apt-get install nodejs
+```
+```
+$  sudo apt-get install npm
+```
